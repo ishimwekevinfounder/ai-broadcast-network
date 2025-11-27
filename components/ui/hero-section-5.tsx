@@ -264,7 +264,7 @@ const Logo = ({ className }: { className?: string }) => {
     return (
         <div className={cn("flex items-center gap-2", className)}>
             <Dna className="h-6 w-6" />
-            <span className="text-lg font-bold tracking-tight">ECHOMED</span>
+            <span className="text-lg font-bold tracking-tight">OPENNATIONS</span>
         </div>
     )
 }
